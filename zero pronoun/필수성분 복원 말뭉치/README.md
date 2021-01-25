@@ -1,0 +1,1 @@
+Tagged의 필수성분 복원 말뭉치는 계속하여 Corefence Tool을 이용하여 작업중입니다.
